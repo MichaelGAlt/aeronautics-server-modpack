@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "0489b03d1e95f2f374e8925e780228ce68bd97456c2ed57957973ef4f9e5ff03"
+hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "f2a0a107a676b1f18ff93254267f72fd04869ab45ce762fdc057f9df808a43d9"
+hash = "d3f23e74efe6032432f3ae376cd7e98463c05f22e126fca516430703d4ef2981"
 metafile = true
 
 [[files]]
@@ -177,22 +177,22 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
+hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ffb55dc7c35521b4e3fe36716321b9cf3ca11673bb6e511c63de8e5ec7d29541"
+hash = "2950556c3171e961c78ac6dfb82a006b2b9ad78eebda1930c7f1f436cf6db64b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "82e9a1a3374847c0cda6bd0cef3718df19983226742f988f80a04cee0e94a45f"
+hash = "e2bc8421e37aa8cfab1f4d6f218653032b6b2f4b89dda0db759be9e089ffc741"
 metafile = true
 
 [[files]]
