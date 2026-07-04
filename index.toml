@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
+hash = "d9a3b87e4046a43d3e809434f8a83866556b70b68d5c0b1be2372d127ea8ce00"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e7b3c08c8b168d15e3997d41d0480d1d35cba0bdda94094f123d1eef65d0b0c4"
+hash = "65d7dbf55554eea06332064358bfe6c30f329fed683679b95603c0168a893b07"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
+hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
 metafile = true
 
 [[files]]
@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "f760283e3e2f3c152321a713532ba82332a65a01ba54c4c395d9231989781e22"
+hash = "d326942e99d1c84c38f2b3598c1894b5b0c98452d22be219a8987bc2ba3470f9"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
+hash = "c5f891f486c303cae5fb41223bdc54e8c8c9da259f5c950c23df8b8ebdc40eea"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2950556c3171e961c78ac6dfb82a006b2b9ad78eebda1930c7f1f436cf6db64b"
+hash = "2d7e60e4deb50fe41e71b989616e08405699c5e24c27c9435277f29a30235b85"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3f7cef7e3aaadd163f8505cdc372e6f1957b59937d2b96a4cdf38473bce20f47"
+hash = "d3e02692562568a515699f9e408da17fd88b363ad9ce4ba3e5261573f9fd7047"
 metafile = true
 
 [[files]]
