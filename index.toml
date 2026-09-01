@@ -176,6 +176,11 @@ hash = "b24ba60b700ccce1c133be2317eae6f888d571fe9f42c9651bd711dded2c7ed2"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
